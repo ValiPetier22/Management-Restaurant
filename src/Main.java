@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         Restaurant restaurant = new Restaurant();
 
-        restaurant.request(TipMeniu.POST, 2);
+        restaurant.request(TipMeniu.POST, 10);
 
     }
 }
